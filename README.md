@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saurabh yadav aka @Saurabhtechbca on my GitHub
+- 👋 Hi, I’m Saurabh Yadav aka @Saurabhtechbca on my GitHub
 - 👀 I’m interested in web development, machines and technologies.
 - 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m not looking to collaborate on any project but will do soon.

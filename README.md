@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saurabh Yadav aka @Saurabhtechbca on my GitHub
 - 👀 I’m interested in web development, machines and technologies.
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning Ionic, Angular and Python.
 - 💞️ I’m not looking to collaborate on any project but will do soon.
 - 📫 Reach out me at my gmail i.e "yadavsaurabh4240@gmail.com"
 - 😄 Pronouns: He/him

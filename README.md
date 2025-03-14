@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Saurabh Yadav aka @Saurabhtechbca on my GitHub
 - 👀 I’m interested in web development, machines and technologies.
-- 🌱 I’m currently learning Ionic, Angular and Python.
-- 💞️ I’m not looking to collaborate on any project but will do soon.
+- 🌱 I’m currently learning Ionic, Angular and MERN.
+- 💞️ I’m looking to collaborate on any project.
 - 📫 Reach out me at my gmail i.e "yadavsaurabh4240@gmail.com"
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I will tell when we will meet in person.
+
 
 <!---
 Saurabhtechbca/Saurabhtechbca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
